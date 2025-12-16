@@ -1,30 +1,53 @@
-# Bank_Management_System
+📖 Project Description:
 
-This is a Bank Management System built using Java, Swing, and AWT. It provides a simple GUI-based application to manage basic banking operations efficiently.
+The Bank Management System is a software application developed to automate and simplify day-to-day banking operations. It provides a structured and secure way to manage customer accounts, handle transactions, and maintain banking records. The system is designed using object-oriented principles to ensure scalability, maintainability, and clarity of code.
 
-✨ Features:
+This project simulates real-world banking workflows such as account creation, deposits, withdrawals, and balance inquiries. It helps in understanding how core banking logic works in a controlled software environment.
+
+🚀 Features:
 
 Create new bank accounts
+
 Deposit and withdraw money
+
 Check account balance
-Update account details
-Delete accounts
-GUI built with Java Swing and AWT for easy user interaction
-Secure data handling with validation checks
 
-💻 Technologies Used:
+View customer/account details
 
-Java – Core logic and OOP implementation
-Swing & AWT – GUI components and design
-JDBC (if database used) – For database connectivity (mention if used)
-MySQL/Oracle Database 
+Transaction handling with validation
 
-🎯 Future Enhancements:
+Secure and structured data management.
 
-Integration with SQL database for persistent data storage
+🛠️ Technologies & Tools:
 
-Adding transaction history module
+Programming Language: Java (Core, AWT/Swing)
 
-Implementing login authentication system
+Core Concepts:
 
-Generating account statements in PDF
+Object-Oriented Programming (OOP)
+
+Exception Handling
+
+Collections Framework
+
+Data Storage: File Handling / MySQL
+
+🧱 System Architecture:
+
+The system follows a modular architecture where each functionality is handled by separate classes:
+
+Account Class: Stores account details and balance
+
+Customer Class: Manages customer information
+
+Transaction Module: Handles deposits and withdrawals
+
+Main Controller: Controls program flow and user interaction
+
+This approach ensures better code organization and reusability.
+
+Development Tools: Eclipse / IntelliJ IDEA
+
+Version Control: Git & GitHub
+
+
